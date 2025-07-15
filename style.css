@@ -73,10 +73,16 @@ main {
 .list {
     padding: 25px 42px;
     border-radius: 5px;
-    font-size: 11px;
     color: #45494c;
     border: 1px solid white;
     border-top: 3px solid whitesmoke;
     background-color: white;
     
+}
+
+.list li {
+    font-size: medium;
+    font-weight: 500;
+    margin: 6px;
+
 }
