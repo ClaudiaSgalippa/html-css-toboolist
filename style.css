@@ -1,0 +1,34 @@
+/* Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Utility*/
+body {
+    background-color: whitesmoke;
+}
+
+/*Header*/
+.container header {
+    background-color: white;
+    font-family: 
+}
+
+img {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 6px;
+    margin-left: 20px;
+}
+
+#logo-text {
+    display: inline;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: arial;
+}
+
+
+/*Buttons*/
