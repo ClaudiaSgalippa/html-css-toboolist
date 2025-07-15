@@ -77,12 +77,34 @@ main {
     border: 1px solid white;
     border-top: 3px solid whitesmoke;
     background-color: white;
-    
 }
 
 .list li {
     font-size: medium;
     font-weight: 500;
     margin: 6px;
-
 }
+
+.check {
+   font-size: x-small;
+   color: green;
+}
+
+.cross {
+    font-size: x-small; 
+    color: red;
+}
+
+.cerchio {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin: 10px;
+    line-height: 13px;
+}
+
+/*Labels*/
