@@ -71,13 +71,12 @@ main {
 }
 
 .list {
-    padding-top: 25px;
-    padding-right: 13px;
-    padding-bottom: 5px;
-    padding-left: 50px;
+    padding: 25px 42px;
     border-radius: 5px;
-    font-size: 12px;
+    font-size: 11px;
+    color: #45494c;
     border: 1px solid white;
     border-top: 3px solid whitesmoke;
     background-color: white;
+    
 }
