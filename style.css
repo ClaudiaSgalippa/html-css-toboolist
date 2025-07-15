@@ -108,3 +108,35 @@ main {
 }
 
 /*Labels*/
+
+.label {
+    color: white;
+    padding: 5px 10px;
+    font-size: 10px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.editorial {
+    background-color: #45AEF3;  
+}
+
+.goal {
+    background-color: #9A73E6;
+}
+
+.recruiting {
+    background-color: #62BFA7;
+}
+
+.mobile {
+    background-color: #F3A035;
+}
+
+.website {
+    background-color: #D7669C;
+}
+
+.sales {
+    background-color: #B0C825;
+}
