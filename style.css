@@ -30,5 +30,20 @@ img {
     font-family: arial;
 }
 
-
 /*Buttons*/
+.buttons {   
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 1px solid #ddd;
+}
+
+.task-button {
+    color: white;
+    background-color: #45AEF3;
+}
+
+.section-button {
+    color: #ddd;
+    background-color: white;
+}
