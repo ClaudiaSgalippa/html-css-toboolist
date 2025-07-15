@@ -8,12 +8,12 @@
 /*Utility*/
 body {
     background-color: whitesmoke;
+    font-family: arial;
 }
 
 /*Header*/
 .container header {
     background-color: white;
-    font-family: 
 }
 
 img {
@@ -27,10 +27,22 @@ img {
     display: inline;
     font-weight: 700;
     font-size: 40px;
-    font-family: arial;
 }
 
-/*Buttons*/
+/*Main*/
+main {
+    margin-top: 40px;
+    margin-right: 25%;
+    margin-bottom: 5px;
+    margin-left: 25%;
+}
+
+/*Buttons Section*/
+.container-button {
+    margin: 50px;
+    background-color: white;
+}
+
 .buttons {   
     padding: 8px;
     border-radius: 5px;
@@ -46,4 +58,11 @@ img {
 .section-button {
     color: #ddd;
     background-color: white;
+}
+
+/*List Section*/
+.container-list {
+    margin: 50px;
+    background-color: white;
+    color: #45494C;
 }
